@@ -1,0 +1,9 @@
+// settings.gradle
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'Basio3'
